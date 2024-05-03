@@ -1,0 +1,52 @@
+[
+  {
+    "_id": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "name": "Computer Science",
+    "description": "Introduce fundamental programming concepts and algorithms."
+  },
+  {
+    "_id": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "name": "Geography",
+    "description": "Study Earth's landscapes, environments, and the relationships between people and their environments."
+  },
+  {
+    "_id": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "name": "World History",
+    "description": "Explore historical events, figures, and civilizations."
+  },
+  {
+    "_id": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "name": "Sports",
+    "description": "Cover sports and athletic activities."
+  },
+  {
+    "_id": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "name": "Language Learning",
+    "description": "Focus on building vocabulary and language proficiency."
+  },
+  {
+    "_id": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "name": "Art and Design",
+    "description": "Explore artistic techniques, styles, and movements."
+  },
+  {
+    "_id": { "$oid": "6619a476e77c7a8772fe74df" },
+    "name": "Medical Science",
+    "description": "Study anatomy, physiology, and medical terminology."
+  },
+  {
+    "_id": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "name": "Economics",
+    "description": "Understand economic principles, theories, and policies."
+  },
+  {
+    "_id": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "name": "Environmental Studies",
+    "description": "Learn about ecosystems, conservation, and sustainability."
+  },
+  {
+    "_id": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "name": "Psychology",
+    "description": "Explore human behavior, cognition, and mental processes."
+  }
+]

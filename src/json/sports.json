@@ -1,0 +1,177 @@
+[
+  {
+    "question": "Which Olympic sport features a vault and uneven bars for female athletes?",
+    "answer": "Gymnastics",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the primary event in Olympic swimming where athletes compete in various strokes and distances?",
+    "answer": "Freestyle",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "In which Olympic sport do athletes use a long, flexible pole to clear a horizontal bar at great heights?",
+    "answer": "Pole vault",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which track and field event involves throwing a metal ball as far as possible?",
+    "answer": "Shot put",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "In Olympic gymnastics, what is the name of the event where athletes perform on a narrow beam?",
+    "answer": "Balance beam",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which team sport is played on a rectangular field with two teams of eleven players each?",
+    "answer": "Soccer",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "In which team sport are players required to dribble and shoot a ball through a hoop?",
+    "answer": "Basketball",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which team sport involves passing a ball over a net using hands or arms, with the objective of grounding the ball on the opponent's court?",
+    "answer": "Volleyball",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the name of the team sport that involves kicking a ball into a goal defended by a goalkeeper?",
+    "answer": "Soccer",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which team sport is played with a puck and sticks on a frozen surface?",
+    "answer": "Ice hockey",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What individual sport involves swimming various strokes over different distances?",
+    "answer": "Swimming",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which individual sport requires players to hit a ball over a net using a racket?",
+    "answer": "Tennis",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the name of the individual sport that involves running, jumping, and throwing?",
+    "answer": "Track and field",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which individual sport involves hitting a ball into a series of holes on a course using clubs?",
+    "answer": "Golf",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What individual sport requires athletes to perform acrobatic maneuvers on a horizontal bar, rings, and other apparatus?",
+    "answer": "Gymnastics",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which extreme sport involves descending from a tall structure while attached to a rope?",
+    "answer": "Bungee jumping",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What extreme sport involves jumping from an aircraft and free-falling before deploying a parachute?",
+    "answer": "Skydiving",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which extreme sport involves riding waves using a small board?",
+    "answer": "Surfing",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What extreme sport involves riding a board down a snowy slope?",
+    "answer": "Snowboarding",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which extreme sport involves riding a bike off specially constructed ramps and performing aerial tricks?",
+    "answer": "BMX freestyle",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which winter sport involves sliding down a track while lying on a sled?",
+    "answer": "Luge",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What winter sport involves skiing downhill at high speeds while passing through a series of gates?",
+    "answer": "Alpine skiing",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which winter sport involves racing down an icy track at high speeds in a small, steerable sled?",
+    "answer": "Skeleton",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What winter sport involves skiing and shooting at targets?",
+    "answer": "Biathlon",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which winter sport involves gliding across ice on metal blades attached to shoes?",
+    "answer": "Ice skating",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4e" },
+    "__v": { "$numberInt": "0" }
+  }
+]

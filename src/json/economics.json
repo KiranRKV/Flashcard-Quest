@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What is the term for the study of individual economic agents such as households and firms?",
+    "answer": "Microeconomics",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the price at which the quantity demanded equals the quantity supplied?",
+    "answer": "Equilibrium",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the additional cost incurred by producing one more unit of a good?",
+    "answer": "Marginal cost",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the maximum amount that a buyer is willing to pay for a good?",
+    "answer": "Willingness to pay",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for a market structure characterized by a large number of small firms?",
+    "answer": "Perfect competition",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the total value of all goods and services produced within a country's borders in a given period?",
+    "answer": "Gross Domestic Product (GDP)",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the measure of the overall cost of goods and services in an economy?",
+    "answer": "Inflation",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the percentage of the labor force that is unemployed and actively seeking employment?",
+    "answer": "Unemployment rate",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the total value of a country's exports minus the total value of its imports?",
+    "answer": "Trade balance",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes a sustained increase in the general price level of goods and services in an economy over a period of time?",
+    "answer": "Inflation",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for a tax imposed by a government on imported goods and services?",
+    "answer": "Tariff",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes a situation where a country exports more goods and services than it imports?",
+    "answer": "Trade surplus",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the total value of a country's exports and imports of goods and services?",
+    "answer": "Balance of trade",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the value of a country's currency in terms of another currency?",
+    "answer": "Exchange rate",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the reduction or elimination of trade barriers between nations?",
+    "answer": "Free trade",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the study of economic issues related to growth, poverty, and inequality?",
+    "answer": "Development economics",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the total value of goods and services produced in a country in a given period?",
+    "answer": "Gross domestic product (GDP)",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the systematic differences in living standards between different countries?",
+    "answer": "Income inequality",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the state of having inadequate access to clean water, food, and healthcare?",
+    "answer": "Poverty",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the process of economic growth, raising incomes, and reducing poverty?",
+    "answer": "Economic development",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6d" },
+    "__v": { "$numberInt": "0" }
+  }
+]

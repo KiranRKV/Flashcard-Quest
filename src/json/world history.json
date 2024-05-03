@@ -1,0 +1,317 @@
+[
+  {
+    "question": "Ancient civilization known for building pyramids?",
+    "answer": "Egypt",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd46" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "City-state known for its democracy in ancient Greece?",
+    "answer": "Athens",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd46" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Ancient civilization known for the Code of Hammurabi?",
+    "answer": "Mesopotamia",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd46" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Famous ancient Roman emperor who proclaimed himself a god?",
+    "answer": "Caesar",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd46" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Epic poem attributed to the ancient Greek poet Homer?",
+    "answer": "Iliad",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd46" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "System of government based on land ownership and loyalty in the Middle Ages?",
+    "answer": "Feudalism",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd47" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Time period characterized by the revival of learning and culture?",
+    "answer": "Renaissance",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd47" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Major event marking the end of the Middle Ages?",
+    "answer": "Black Death",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd47" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Medieval knight's code of conduct?",
+    "answer": "Chivalry",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd47" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Medieval trade route connecting Europe and Asia?",
+    "answer": "Silk Road",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd47" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "First man to set foot on the moon?",
+    "answer": "Armstrong",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd48" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Russian revolutionary leader during the October Revolution?",
+    "answer": "Lenin",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd48" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Event marking the beginning of World War II?",
+    "answer": "Invasion",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd48" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Year of the fall of the Berlin Wall?",
+    "answer": "1989",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd48" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "American president during the Cuban Missile Crisis?",
+    "answer": "Kennedy",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd48" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Famous battle during the American Civil War?",
+    "answer": "Gettysburg",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd49" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Leader of the Allied forces in Europe during World War II?",
+    "answer": "Eisenhower",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd49" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Conflict known as the 'War to End All Wars'?",
+    "answer": "WWI",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd49" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Country invaded by Germany, sparking World War II?",
+    "answer": "Poland",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd49" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Military leader known as 'Desert Fox'?",
+    "answer": "Rommel",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd49" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Location of the famous Palace of Versailles?",
+    "answer": "France",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd59" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Year of the French Revolution?",
+    "answer": "1789",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd59" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "City associated with the Renaissance?",
+    "answer": "Florence",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd59" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Location of the infamous Berlin Wall?",
+    "answer": "Germany",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd59" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "European country where the Industrial Revolution began?",
+    "answer": "Britain",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd59" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "First president of the United States?",
+    "answer": "Washington",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Year of the Declaration of Independence?",
+    "answer": "1776",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Location of the Alamo?",
+    "answer": "Texas",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "American inventor of the light bulb?",
+    "answer": "Edison",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Year of the Louisiana Purchase?",
+    "answer": "1803",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Chinese philosopher known for his teachings on ethics and morality?",
+    "answer": "Confucius",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "City that served as the capital of Japan for over a thousand years?",
+    "answer": "Kyoto",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Mongol ruler who established the largest land empire in history?",
+    "answer": "Genghis Khan",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Country where the Silk Road originated?",
+    "answer": "China",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Year of India's independence from British rule?",
+    "answer": "1947",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Egyptian queen known for her relationships with Julius Caesar and Mark Antony?",
+    "answer": "Cleopatra",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "South African leader who fought against apartheid?",
+    "answer": "Mandela",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "African country formerly known as Abyssinia?",
+    "answer": "Ethiopia",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Location of the Great Zimbabwe ruins?",
+    "answer": "Zimbabwe",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "River associated with ancient Egyptian civilization?",
+    "answer": "Nile",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5c" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "City that was the capital of the Inca Empire?",
+    "answer": "Cuzco",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Location of the ancient Maya civilization?",
+    "answer": "Mexico",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Revolutionary leader who played a key role in the Cuban Revolution?",
+    "answer": "Castro",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Country where the ancient Aztec civilization flourished?",
+    "answer": "Mexico",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "City known for its ancient ruins, including Machu Picchu?",
+    "answer": "Cusco",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd5d" },
+    "__v": { "$numberInt": "0" }
+  }
+]

@@ -1,0 +1,824 @@
+[
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the capital of France?",
+      "options": ["London", "Berlin", "Rome"],
+      "correctAnswer": "Paris",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "Which river is the longest in the world?",
+      "options": ["Amazon", "Mississippi", "Yangtze"],
+      "correctAnswer": "Nile",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the largest continent by land area?",
+      "options": ["Africa", "Europe", "North America"],
+      "correctAnswer": "Asia",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the highest mountain peak in the world?",
+      "options": ["Mount Kilimanjaro", "K2", "Mount Fuji"],
+      "correctAnswer": "Mount Everest",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "India", "Australia"],
+      "correctAnswer": "Japan",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the smallest country in the world by land area?",
+      "options": ["Monaco", "Nauru", "San Marino"],
+      "correctAnswer": "Vatican City",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "Which desert is the largest in the world?",
+      "options": ["Gobi Desert", "Arabian Desert", "Kalahari Desert"],
+      "correctAnswer": "Sahara Desert",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Brisbane"],
+      "correctAnswer": "Canberra",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "Which ocean is the largest by surface area?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+      "correctAnswer": "Pacific Ocean",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the longest river in Europe?",
+      "options": ["Rhine", "Danube", "Thames"],
+      "correctAnswer": "Volga",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the largest city in the United States by population?",
+      "options": ["Chicago", "Los Angeles", "Houston"],
+      "correctAnswer": "New York City",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "Which country is the smallest by population?",
+      "options": ["Tuvalu", "Nauru", "San Marino"],
+      "correctAnswer": "Vatican City",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the longest river in South America?",
+      "options": ["Orinoco", "Paraná", "Magdalena"],
+      "correctAnswer": "Amazon",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "Which of the following countries is not part of Scandinavia?",
+      "options": ["Sweden", "Norway", "Denmark"],
+      "correctAnswer": "Finland",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the capital of Spain?",
+      "options": ["Barcelona", "Seville", "Valencia"],
+      "correctAnswer": "Madrid",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "Which African country is known as the 'Rainbow Nation'?",
+      "options": ["Nigeria", "Ethiopia", "Kenya"],
+      "correctAnswer": "South Africa",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the largest island in the world?",
+      "options": ["Borneo", "Madagascar", "Baffin Island"],
+      "correctAnswer": "Greenland",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "Which continent is the most populous?",
+      "options": ["Africa", "Europe", "North America"],
+      "correctAnswer": "Asia",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "Which desert is located in Australia?",
+      "options": ["Mojave Desert", "Kalahari Desert", "Sahara Desert"],
+      "correctAnswer": "Simpson Desert",
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "category": { "$oid": "6634a3623999db00e7c339bb" },
+      "questionText": "What is the capital city of Brazil?",
+      "options": ["Rio de Janeiro", "São Paulo", "Salvador"],
+      "correctAnswer": "Brasília",
+      "__v": { "$numberInt": "0" }
+    },
+    
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "What year did World War I begin?",
+          "options": ["1912", "1915", "1916"],
+          "correctAnswer": "1914",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "Who was the first President of the United States?",
+          "options": ["James Madison", "John Quincy Adams", "Andrew Jackson"],
+          "correctAnswer": "George Washington",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "In what year did the American Civil War end?",
+          "options": ["1863", "1864", "1866"],
+          "correctAnswer": "1865",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "What was the name of the first successful English colony in North America?",
+          "options": ["Roanoke", "Plymouth", "Williamsburg"],
+          "correctAnswer": "Jamestown",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "Who was the leader of the Soviet Union during World War II?",
+          "options": ["Leon Trotsky", "Nikita Khrushchev", "Georgy Malenkov"],
+          "correctAnswer": "Joseph Stalin",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "In what year did the French Revolution begin?",
+          "options": ["1787", "1790", "1792"],
+          "correctAnswer": "1789",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "What was the name of the first successful English settlement in Australia?",
+          "options": ["Brisbane", "Melbourne", "Hobart"],
+          "correctAnswer": "Sydney",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "Who was the leader of the Nazi Party in Germany during World War II?",
+          "options": ["Heinrich Himmler", "Rudolf Hess", "Ernst Rohm"],
+          "correctAnswer": "Adolf Hitler",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "In what year did the American Revolution begin?",
+          "options": ["1773", "1774", "1776"],
+          "correctAnswer": "1775",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "What was the name of the ancient Egyptian ruler who built the Great Pyramids of Giza?",
+          "options": ["Ramses II", "Akhenaten", "Nefertiti"],
+          "correctAnswer": "Khufu",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "Who was the first European explorer to reach the Americas?",
+          "options": ["Vasco da Gama", "Ferdinand Magellan", "Jacques Cartier"],
+          "correctAnswer": "Christopher Columbus",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "What was the name of the ancient Greek city-state that was a center of democracy and philosophy?",
+          "options": ["Sparta", "Corinth", "Miletus"],
+          "correctAnswer": "Athens",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "In what year did the Roman Empire fall?",
+          "options": ["410 AD", "1066 AD", "1453 AD"],
+          "correctAnswer": "476 AD",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "Who was the leader of the Mongol Empire in the 13th century?",
+          "options": ["Attila the Hun", "Timur", "Batu Khan"],
+          "correctAnswer": "Genghis Khan",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "What was the name of the first successful English settlement in India?",
+          "options": ["Bombay", "Calcutta", "Pondicherry"],
+          "correctAnswer": "Madras",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "In what year did the Wright brothers make the first powered flight?",
+          "options": ["1900", "1902", "1904"],
+          "correctAnswer": "1903",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "Who was the leader of the Indian independence movement against British rule?",
+          "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Bal Gangadhar Tilak"],
+          "correctAnswer": "Mahatma Gandhi",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "What was the name of the ancient Greek mathematician and philosopher who is considered the father of geometry?",
+          "options": ["Socrates", "Archimedes", "Aristotle"],
+          "correctAnswer": "Euclid",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "In what year did the Russian Revolution begin?",
+          "options": ["1914", "1916", "1918"],
+          "correctAnswer": "1917",
+          "__v": {"$numberInt": "0"}
+        },
+        {
+          "category": {"$oid": "6634a3623999db00e7c339bc"},
+          "questionText": "Who was the leader of the Cuban Revolution?",
+          "options": ["Che Guevara", "Fulgencio Batista", "Raúl Castro"],
+          "correctAnswer": "Fidel Castro",
+          "__v": {"$numberInt": "0"}
+        },
+        
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "What is the highest governing body for association football (soccer)?",
+              "options": ["UEFA", "CONMEBOL", "AFC"],
+              "correctAnswer": "FIFA",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "How many players are on a basketball team on the court at one time?",
+              "options": ["3", "4", "6"],
+              "correctAnswer": "5",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "What is the name of the trophy awarded to the winner of the FIFA World Cup?",
+              "options": ["Champions Trophy", "FIFA Cup", "World Champions Cup"],
+              "correctAnswer": "World Cup",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "Which sport awards the Stanley Cup to its champion?",
+              "options": ["Soccer", "Baseball", "Rugby"],
+              "correctAnswer": "Ice Hockey",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "How many players are on each team in baseball?",
+              "options": ["7", "8", "11"],
+              "correctAnswer": "9",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "What is the name of the annual tennis tournament played at the All England Club?",
+              "options": ["Australian Open", "French Open", "U.S. Open"],
+              "correctAnswer": "Wimbledon",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "Which sport awards the Ashes to the winner of the England vs Australia Test series?",
+              "options": ["Rugby Union", "Soccer", "Tennis"],
+              "correctAnswer": "Cricket",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "How many players are on each team in volleyball?",
+              "options": ["4", "5", "8"],
+              "correctAnswer": "6",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "What is the name of the annual road cycling race held in France?",
+              "options": ["Giro d'Italia", "Vuelta a España", "La Vuelta"],
+              "correctAnswer": "Tour de France",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "Which sport awards the Vince Lombardi Trophy to its champion?",
+              "options": ["Baseball", "Ice Hockey", "Rugby Union"],
+              "correctAnswer": "American Football",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "How many players are on each team in water polo?",
+              "options": ["5", "8", "9"],
+              "correctAnswer": "7",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "What is the name of the annual golf tournament held at Augusta National Golf Club?",
+              "options": ["U.S. Open", "PGA Championship", "The Open Championship"],
+              "correctAnswer": "The Masters",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "Which sport awards the Larry O'Brien Championship Trophy to its champion?",
+              "options": ["Baseball", "American Football", "Soccer"],
+              "correctAnswer": "Basketball",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "How many players are on each team in rugby union?",
+              "options": ["13", "16", "18"],
+              "correctAnswer": "15",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "What is the name of the annual horse race held at Churchill Downs?",
+              "options": ["Preakness Stakes", "Belmont Stakes", "Breeders' Cup"],
+              "correctAnswer": "Kentucky Derby",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "Which sport awards the Commissioner's Trophy to its champion?",
+              "options": ["Basketball", "Ice Hockey", "Soccer"],
+              "correctAnswer": "Baseball",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "How many players are on each team in lacrosse?",
+              "options": ["8", "9", "11"],
+              "correctAnswer": "10",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "What is the name of the annual surfing competition held at Banzai Pipeline?",
+              "options": ["Vans Triple Crown", "U.S. Open of Surfing", "Billabong Pipe Masters"],
+              "correctAnswer": "Pipe Masters",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "Which sport awards the Wanamaker Trophy to its champion?",
+              "options": ["Tennis", "Swimming", "Gymnastics"],
+              "correctAnswer": "Golf",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339bd"},
+              "questionText": "How many players are on each team in field hockey?",
+              "options": ["9", "10", "12"],
+              "correctAnswer": "11",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the musical instrument that produces sound through striking wire strings with hammers?",
+              "options": ["Drums", "Flute", "Harp"],
+              "correctAnswer": "Piano",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "Which famous composer wrote the opera 'Carmen'?",
+              "options": ["Frédéric Chopin", "Johann Sebastian Bach", "Antonio Vivaldi"],
+              "correctAnswer": "Georges Bizet",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the woodwind instrument that is the highest-pitched in the orchestra?",
+              "options": ["Bassoon", "Saxophone", "Trumpet"],
+              "correctAnswer": "Piccolo",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "Which famous rock band was formed in Seattle, Washington in the 1990s?",
+              "options": ["Foo Fighters", "Guns N' Roses", "Red Hot Chili Peppers"],
+              "correctAnswer": "Nirvana",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the percussion instrument consisting of a wooden or metal bar that is struck with a mallet?",
+              "options": ["Snare Drum", "Triangle", "Marimba"],
+              "correctAnswer": "Xylophone",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "Which famous jazz musician was known as the 'King of Swing'?",
+              "options": ["Miles Davis", "John Coltrane", "Dizzy Gillespie"],
+              "correctAnswer": "Benny Goodman",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the stringed instrument that is typically played while sitting and holding it upright on the knee?",
+              "options": ["Guitar", "Double Bass", "Harp"],
+              "correctAnswer": "Cello",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "Which famous composer wrote the ballet 'The Nutcracker'?",
+              "options": ["Béla Bartók", "Maurice Ravel", "Dmitri Shostakovich"],
+              "correctAnswer": "Pyotr Ilyich Tchaikovsky",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the woodwind instrument that is known for its distinctive 'honking' sound?",
+              "options": ["Recorder", "Harmonica", "Bagpipes"],
+              "correctAnswer": "Saxophone",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "Which famous British rock band had hits such as 'Bohemian Rhapsody' and 'We Will Rock You'?",
+              "options": ["Led Zeppelin", "Pink Floyd", "The Kinks"],
+              "correctAnswer": "Queen",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the percussion instrument that consists of two small, hollow, metal spheres attached to a handle?",
+              "options": ["Claves", "Cymbals", "Triangle"],
+              "correctAnswer": "Castanets",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "Which famous American singer-songwriter was known as the 'King of Rock and Roll'?",
+              "options": ["Buddy Holly", "Johnny Cash", "Ray Charles"],
+              "correctAnswer": "Elvis Presley",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the brass instrument that is typically played while holding it vertically against the player's lips?",
+              "options": ["French Horn", "Euphonium", "Tuba"],
+              "correctAnswer": "Trumpet",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "Which famous composer wrote the ballet 'The Firebird'?",
+              "options": ["Camille Saint-Saëns", "Sergei Rachmaninoff", "Antonín Dvořák"],
+              "correctAnswer": "Igor Stravinsky",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the stringed instrument that is played with a bow and is the highest-pitched in the string family?",
+              "options": ["Cello", "Double Bass", "Harp"],
+              "correctAnswer": "Violin",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "Which famous American singer-songwriter was known for hits such as 'Born in the U.S.A.' and 'The River'?",
+              "options": ["Bob Dylan", "Neil Young", "Johnny Cash"],
+              "correctAnswer": "Bruce Springsteen",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the percussion instrument that consists of a circular frame with metal jingles?",
+              "options": ["Bongo Drums", "Congas", "Vibraphone"],
+              "correctAnswer": "Tambourine",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "Which famous British rock band had hits such as 'Hey Jude' and 'Let It Be'?",
+              "options": ["The Clash", "Oasis", "Radiohead"],
+              "correctAnswer": "The Beatles",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the brass instrument that is known for its distinctive 'buzzing' sound?",
+              "options": ["Baritone Horn", "Flugelhorn", "Sousaphone"],
+              "correctAnswer": "Trombone",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339be"},
+              "questionText": "What is the name of the percussion instrument that consists of two small, hand-held drums played by striking them with the hands?",
+              "options": ["Timpani", "Gong", "Conga Drums"],
+              "correctAnswer": "Bongo Drums",
+              "__v": {"$numberInt": "0"}
+              },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the binary number system based on?",
+              "options": ["0 and 2", "0 and 3", "0 and 4"],
+              "correctAnswer": "0 and 1",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the primary software that runs on a computer?",
+              "options": ["Web Browser", "Word Processor", "Spreadsheet"],
+              "correctAnswer": "Operating System",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the term used for a set of instructions that tells a computer what to do?",
+              "options": ["Data", "Algorithm", "Program"],
+              "correctAnswer": "Software",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "Which programming language is primarily used for web development?",
+              "options": ["C++", "Ruby", "Swift"],
+              "correctAnswer": "JavaScript",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the physical components that make up a computer?",
+              "options": ["Data", "Network", "Peripheral"],
+              "correctAnswer": "Hardware",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the main circuit board in a computer?",
+              "options": ["GPU", "SSD", "BIOS"],
+              "correctAnswer": "Motherboard",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the programming language used for creating Android apps?",
+              "options": ["Objective-C", "Kotlin", "C#"],
+              "correctAnswer": "Java",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the process of finding and fixing errors in computer programs?",
+              "options": ["Coding", "Testing", "Compiling"],
+              "correctAnswer": "Debugging",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the programming language used for creating iOS apps?",
+              "options": ["C#", "Ruby", "Kotlin"],
+              "correctAnswer": "Swift",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the software that translates high-level programming languages into machine code?",
+              "options": ["Linker", "Loader", "Debugger"],
+              "correctAnswer": "Compiler",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the programming language used for data analysis and scientific computing?",
+              "options": ["MATLAB", "Julia", "Scala"],
+              "correctAnswer": "Python",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the process of dividing a problem into smaller subproblems?",
+              "options": ["Inheritance", "Polymorphism", "Encapsulation"],
+              "correctAnswer": "Decomposition",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the programming language used for developing websites and web applications?",
+              "options": ["Ruby", "C#", "Swift"],
+              "correctAnswer": "PHP",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the programming language used for developing games and multimedia applications?",
+              "options": ["Java", "Python", "Go"],
+              "correctAnswer": "C++",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the process of dividing a program into smaller parts called modules?",
+              "options": ["Abstraction", "Inheritance", "Polymorphism"],
+              "correctAnswer": "Modularity",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the programming language used for developing artificial intelligence and machine learning applications?",
+              "options": ["C++", "Java", "R"],
+              "correctAnswer": "Python",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the process of managing and storing data in a structured way?",
+              "options": ["Data Warehousing", "Data Mining", "Data Modeling"],
+              "correctAnswer": "Database Management",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the programming language used for system programming and operating system development?",
+              "options": ["C++", "Java", "Python"],
+              "correctAnswer": "C",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the process of organizing and structuring data in a way that makes it easier to access and manage?",
+              "options": ["Data Warehousing", "Data Mining", "Database Management"],
+              "correctAnswer": "Data Modeling",
+              "__v": {"$numberInt": "0"}
+            },
+            {
+              "category": {"$oid": "6634a3623999db00e7c339c0"},
+              "questionText": "What is the name of the programming language used for developing software systems and applications?",
+              "options": ["C#", "Python", "Swift"],
+              "correctAnswer": "Java",
+              "__v": {"$numberInt": "0"}
+            },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the smallest particle that makes up all matter?",
+                  "options": ["Electron", "Quark", "Nucleus"],
+                  "correctAnswer": "Atom"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the force that attracts objects towards each other?",
+                  "options": ["Electromagnetic Force", "Strong Nuclear Force", "Weak Nuclear Force"],
+                  "correctAnswer": "Gravity"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the process by which plants convert light energy into chemical energy?",
+                  "options": ["Cellular Respiration", "Osmosis", "Transpiration"],
+                  "correctAnswer": "Photosynthesis"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the scientific term for the study of living organisms?",
+                  "options": ["Ecology", "Zoology", "Botany"],
+                  "correctAnswer": "Biology"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the primary source of energy for the Earth?",
+                  "options": ["Geothermal Energy", "Nuclear Energy", "Fossil Fuels"],
+                  "correctAnswer": "Sun"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the name of the process that converts water vapor into liquid water?",
+                  "options": ["Freezing", "Melting", "Sublimation"],
+                  "correctAnswer": "Condensation"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the scientific term for the study of the Earth's physical structure and substance?",
+                  "options": ["Oceanography", "Seismology", "Paleontology"],
+                  "correctAnswer": "Geology"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the name of the force that opposes the motion of objects through the air or other fluids?",
+                  "options": ["Buoyancy", "Thrust", "Lift"],
+                  "correctAnswer": "Drag"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the scientific term for the study of the atmosphere?",
+                  "options": ["Climatology", "Hydrology", "Aerology"],
+                  "correctAnswer": "Meteorology"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the name of the process by which energy is transferred through a vacuum or medium by electromagnetic waves?",
+                  "options": ["Convection", "Advection", "Diffusion"],
+                  "correctAnswer": "Radiation"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the scientific term for the study of the physical and chemical properties of matter?",
+                  "options": ["Biochemistry", "Molecular Biology", "Organic Chemistry"],
+                  "correctAnswer": "Chemistry"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the name of the force that opposes the relative motion between two surfaces in contact?",
+                  "options": ["Viscosity", "Cohesion", "Adhesion"],
+                  "correctAnswer": "Friction"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the name of the process by which heat is transferred through a solid material?",
+                  "options": ["Advection", "Diffusion", "Convection"],
+                  "correctAnswer": "Conduction"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the scientific term for the study of the properties and behavior of matter and energy?",
+                  "options": ["Astrophysics", "Geophysics", "Biophysics"],
+                  "correctAnswer": "Physics"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the name of the scientific theory that explains the origin and evolution of the universe?",
+                  "options": ["Theory of Relativity", "Quantum Theory", "Steady State Theory"],
+                  "correctAnswer": "Big Bang Theory"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the name of the process by which heat is transferred through the movement of a fluid?",
+                  "options": ["Diffusion", "Advection", "Conduction"],
+                  "correctAnswer": "Convection"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the scientific term for the study of the physical and chemical properties of the oceans?",
+                  "options": ["Marine Biology", "Hydrography", "Limnology"],
+                  "correctAnswer": "Oceanography"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the name of the force that causes objects to resist changes in their state of motion?",
+                  "options": ["Momentum", "Centrifugal Force", "Centripetal Force"],
+                  "correctAnswer": "Inertia"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the scientific term for the study of the properties and behavior of stars and other celestial bodies?",
+                  "options": ["Cosmology", "Astrophysics", "Planetary Science"],
+                  "correctAnswer": "Astronomy"
+                },
+                {
+                  "category": {"$oid": "6634a3623999db00e7c339c1"},
+                  "questionText": "What is the name of the process by which a substance changes from a solid to a liquid state?",
+                  "options": ["Vaporization", "Sublimation", "Deposition"],
+                  "correctAnswer": "Melting"
+                }
+               ]

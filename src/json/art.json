@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Who painted the famous work 'Starry Night'?",
+    "answer": "Vincent van Gogh",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd62" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which Renaissance artist is known for painting the 'Mona Lisa'?",
+    "answer": "Leonardo da Vinci",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd62" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Who is considered the founder of Cubism?",
+    "answer": "Pablo Picasso",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd62" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which art movement emerged in the 1960s and focused on expressing emotions and feelings through abstract forms?",
+    "answer": "Abstract Expressionism",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd62" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Who is known for his 'Campbell's Soup Cans' artwork, which is associated with the Pop Art movement?",
+    "answer": "Andy Warhol",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd62" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What drawing technique involves using dots to create an image?",
+    "answer": "Pointillism",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd63" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the technique of drawing using a series of rapidly executed marks to create an image?",
+    "answer": "Gesture drawing",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd63" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which drawing technique involves creating the illusion of depth and distance on a flat surface?",
+    "answer": "Perspective drawing",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd63" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What drawing technique is characterized by using a series of parallel lines to create shading and texture?",
+    "answer": "Hatching",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd63" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the technique of drawing using a soft pencil or charcoal to create soft, smooth shading?",
+    "answer": "Smudging",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd63" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What painting style is known for its use of small, distinct dots of color that form an image when viewed from a distance?",
+    "answer": "Pointillism",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd64" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What painting style is characterized by its use of geometric shapes and bold colors?",
+    "answer": "Cubism",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd64" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which painting style emerged in the 15th century and is known for its use of realistic proportions and perspective?",
+    "answer": "Renaissance",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd64" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What painting style is characterized by its use of light and atmospheric effects to create a sense of space?",
+    "answer": "Impressionism",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd64" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes a painting style that focuses on depicting scenes of everyday life?",
+    "answer": "Realism",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd64" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What material is commonly used for sculpting that involves shaping and molding when heated?",
+    "answer": "Clay",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd65" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the technique of carving away material from a block to create a sculpture?",
+    "answer": "Carving",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd65" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which ancient civilization is known for its colossal stone sculptures, such as the Great Sphinx and the statues of Ramses II?",
+    "answer": "Ancient Egypt",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd65" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What metal alloy is commonly used for casting sculptures?",
+    "answer": "Bronze",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd65" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What technique involves shaping and manipulating soft metal to create a sculpture?",
+    "answer": "Metalworking",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd65" },
+    "__v": { "$numberInt": "0" }
+  }
+]

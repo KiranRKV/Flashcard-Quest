@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What term describes government actions and regulations aimed at protecting the environment?",
+    "answer": "Environmental policy",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for agreements between nations to address global environmental issues?",
+    "answer": "International treaties",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes rules and regulations set by a government to limit pollution?",
+    "answer": "Environmental regulations",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the process of using economic incentives to encourage environmental protection?",
+    "answer": "Market-based instruments",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the practice of assigning a monetary value to environmental goods and services?",
+    "answer": "Environmental valuation",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the study of the interactions between organisms and their environment?",
+    "answer": "Ecology",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the number of different species in a particular habitat or ecosystem?",
+    "answer": "Biodiversity",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes a group of organisms of the same species living in the same area?",
+    "answer": "Population",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the relationship between two species where one benefits and the other is unaffected?",
+    "answer": "Commensalism",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes a group of different populations living and interacting with each other in an area?",
+    "answer": "Community",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd6f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the study of preserving biodiversity and protecting natural habitats?",
+    "answer": "Conservation biology",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd70" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the prevention of habitat destruction and the protection of endangered species?",
+    "answer": "Habitat conservation",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd70" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes efforts to restore ecosystems to their original state?",
+    "answer": "Ecological restoration",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd70" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the protection and management of forests for environmental sustainability?",
+    "answer": "Forest conservation",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd70" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the process of protecting marine ecosystems and species?",
+    "answer": "Marine conservation",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd70" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes energy derived from natural sources that are constantly replenished?",
+    "answer": "Renewable energy",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd71" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the conversion of sunlight into electricity?",
+    "answer": "Solar power",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd71" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes energy generated from moving water, such as rivers or tides?",
+    "answer": "Hydropower",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd71" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes energy produced from organic materials, such as plants and waste?",
+    "answer": "Biomass energy",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd71" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes energy generated from the heat stored in the Earth's crust?",
+    "answer": "Geothermal energy",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd71" },
+    "__v": { "$numberInt": "0" }
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "question": "Fundamental programming concepts?",
+    "answer": "Basics",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Common programming languages?",
+    "answer": "Python, Java, C++",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Purpose of a loop?",
+    "answer": "Execution",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Difference between function and method?",
+    "answer": "Independent, Associated",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is an algorithm?",
+    "answer": "Procedure",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3d" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Data structures?",
+    "answer": "Arrays, Lists, Trees, Graphs",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Advantage of linked list over array?",
+    "answer": "Allocation",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Hierarchical data structure?",
+    "answer": "Trees",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Collection of vertices and edges?",
+    "answer": "Graphs",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Common array operations?",
+    "answer": "Insertion, Deletion, Traversal",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3e" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Algorithm focus?",
+    "answer": "Problem-solving",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Time complexity of binary search?",
+    "answer": "O(log n)",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Algorithm analysis purpose?",
+    "answer": "Efficiency",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Dynamic programming usage?",
+    "answer": "Optimization",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Greedy algorithm?",
+    "answer": "Local",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd3f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Primary focus of web development?",
+    "answer": "Applications",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd40" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Common backend languages?",
+    "answer": "Java, Python, Node.js",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd40" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "HTML purpose?",
+    "answer": "Structuring",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd40" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Primary role of web server?",
+    "answer": "Content",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd40" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Database management study?",
+    "answer": "Systems",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd41" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Primary use of SQL?",
+    "answer": "Querying",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd41" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Purpose of primary key in database?",
+    "answer": "Identification",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd41" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Normalization in database design?",
+    "answer": "Redundancy",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd41" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Common database types?",
+    "answer": "Relational, NoSQL, Hierarchical",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd41" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Object-oriented programming principles?",
+    "answer": "Object-oriented",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd77" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Four main OOP principles?",
+    "answer": "Encapsulation, Inheritance, Polymorphism, Abstraction",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd77" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Object-oriented class?",
+    "answer": "Blueprint",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd77" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Inheritance in OOP?",
+    "answer": "Ability",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd77" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Polymorphism in OOP?",
+    "answer": "Multiple",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd77" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Methodologies in software engineering?",
+    "answer": "Development",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd78" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Purpose of software requirements analysis?",
+    "answer": "Needs",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd78" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Agile methodology description?",
+    "answer": "Iterative",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd78" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Version control purpose?",
+    "answer": "Tracking",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd78" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Software development life cycle?",
+    "answer": "Process",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd78" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Operating system components?",
+    "answer": "Operating systems",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd79" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Kernel purpose?",
+    "answer": "Managing",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd79" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Virtual memory function?",
+    "answer": "Extension",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd79" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Process scheduling in OS?",
+    "answer": "Allocation",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd79" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "File management in OS?",
+    "answer": "Controlling",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd79" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Computer network focus?",
+    "answer": "Networks",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "TCP/IP purpose?",
+    "answer": "Communication",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Difference between TCP and UDP?",
+    "answer": "Connection-oriented, Connectionless",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "IP address usage?",
+    "answer": "Identifying",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Router function?",
+    "answer": "Directing",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7a" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Cybersecurity focus?",
+    "answer": "Systems",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Encryption usage?",
+    "answer": "Securing",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Firewall purpose?",
+    "answer": "Monitoring",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Social engineering definition?",
+    "answer": "Manipulating",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Malware definition?",
+    "answer": "Malicious",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd7b" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Largest ocean?",
+    "answer": "Pacific",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd42" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Longest river?",
+    "answer": "Nile",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd42" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Highest mountain?",
+    "answer": "Everest",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd42" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Largest desert?",
+    "answer": "Sahara",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd42" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Lowest point?",
+    "answer": "Dead Sea",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd42" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Most populous country?",
+    "answer": "China",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd43" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Largest continent?",
+    "answer": "Asia",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd43" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Most spoken language?",
+    "answer": "Mandarin",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd43" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Largest city by population?",
+    "answer": "Tokyo",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd43" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Longest river?",
+    "answer": "Nile",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd43" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Country with most UNESCO World Heritage Sites?",
+    "answer": "Italy",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd44" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Country with the longest coastline?",
+    "answer": "Canada",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd44" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Largest country by land area?",
+    "answer": "Russia",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd44" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Most visited city?",
+    "answer": "Bangkok",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd44" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Country with highest life expectancy?",
+    "answer": "Japan",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd45" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Primary purpose of GIS?",
+    "answer": "Mapping",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd45" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Common file format used in GIS?",
+    "answer": "Shapefile",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd45" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "GIS stands for?",
+    "answer": "Geographic Information Systems",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd45" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Popular software for GIS?",
+    "answer": "ArcGIS",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd45" },
+    "__v": { "$numberInt": "0" }
+  }
+]

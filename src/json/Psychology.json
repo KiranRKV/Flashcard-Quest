@@ -1,0 +1,177 @@
+[
+  {
+    "question": "What branch of psychology studies how social interactions influence behavior?",
+    "answer": "Social psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd72" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the tendency to conform to the group's norms or expectations?",
+    "answer": "Conformity",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd72" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the tendency to attribute one's own actions to external factors and others' actions to internal factors?",
+    "answer": "Fundamental attribution error",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd72" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the theory that individuals are more likely to help others who are similar to them?",
+    "answer": "Similarity principle",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd72" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the phenomenon where individuals exert less effort in a group setting?",
+    "answer": "Social loafing",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd72" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What branch of psychology studies mental processes such as perception and memory?",
+    "answer": "Cognitive psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd73" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the mental process of organizing and interpreting sensory information?",
+    "answer": "Perception",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd73" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the mental process of recalling previously encoded information?",
+    "answer": "Memory retrieval",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd73" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the mental process of problem-solving and decision-making?",
+    "answer": "Reasoning",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd73" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the mental process of maintaining attention and focus?",
+    "answer": "Concentration",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd73" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What branch of psychology studies human development across the lifespan?",
+    "answer": "Developmental psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd74" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the process of physical, cognitive, and emotional growth from infancy to adulthood?",
+    "answer": "Development",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd74" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the stage of life characterized by rapid physical growth and motor development?",
+    "answer": "Infancy",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd74" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the stage of life characterized by identity exploration and self-discovery?",
+    "answer": "Adolescence",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd74" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the stage of life characterized by reflection on one's achievements and life purpose?",
+    "answer": "Late adulthood",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd74" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What branch of psychology studies psychological disorders?",
+    "answer": "Abnormal psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd75" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes persistent feelings of sadness and hopelessness?",
+    "answer": "Depression",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd75" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes intense fear or anxiety about a particular object or situation?",
+    "answer": "Phobia",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd75" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes a dissociative disorder characterized by multiple distinct identities or personalities?",
+    "answer": "Dissociative identity disorder",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd75" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes a disorder characterized by intrusive thoughts and repetitive behaviors?",
+    "answer": "Obsessive-compulsive disorder",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd75" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What branch of psychology focuses on applying psychological principles in the workplace?",
+    "answer": "Industrial-organizational psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd76" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the study of employee motivation and job satisfaction?",
+    "answer": "Job satisfaction",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd76" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the process of selecting and hiring employees?",
+    "answer": "Recruitment",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd76" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the study of leadership styles and effectiveness?",
+    "answer": "Leadership",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd76" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the process of improving employee performance and skills?",
+    "answer": "Training",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd76" },
+    "__v": { "$numberInt": "0" }
+  }
+]

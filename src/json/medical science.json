@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What is the name of the largest bone in the human body?",
+    "answer": "Femur",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd66" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which organ in the human body is responsible for producing insulin?",
+    "answer": "Pancreas",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd66" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the name of the muscular tube that connects the throat to the stomach?",
+    "answer": "Esophagus",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd66" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which part of the brain is responsible for controlling balance and coordination?",
+    "answer": "Cerebellum",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd66" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the name of the fluid-filled sac that cushions and protects the joints?",
+    "answer": "Synovial fluid",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd66" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the primary function of the respiratory system?",
+    "answer": "To facilitate gas exchange (oxygen and carbon dioxide) between the body and the environment",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd67" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which organ is responsible for filtering waste products from the blood and producing urine?",
+    "answer": "Kidneys",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd67" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the primary function of the digestive system?",
+    "answer": "To break down food into nutrients that can be absorbed by the body",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd67" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the name of the process by which cells convert glucose into energy in the presence of oxygen?",
+    "answer": "Cellular respiration",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd67" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which hormone is responsible for regulating blood sugar levels?",
+    "answer": "Insulin",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd67" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the prefix that means 'outside' or 'beyond'?",
+    "answer": "Extra-",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd68" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What does the suffix '-ology' mean?",
+    "answer": "Study of",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd68" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for a word formed from the initial letters of a phrase?",
+    "answer": "Acronym",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd68" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What does the prefix 'hemo-' or 'hemato-' refer to?",
+    "answer": "Blood",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd68" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the study of the causes and origins of diseases?",
+    "answer": "Etiology",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd68" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes the study of the effects and uses of drugs?",
+    "answer": "Pharmacology",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd69" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for a substance that causes drowsiness or induces sleep?",
+    "answer": "Sedative",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd69" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "Which branch of pharmacology focuses on the study of drug interactions with biological systems?",
+    "answer": "Pharmacodynamics",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd69" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the term for the study of the absorption, distribution, metabolism, and excretion of drugs?",
+    "answer": "Pharmacokinetics",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd69" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the name of the process by which drugs are broken down and eliminated from the body?",
+    "answer": "Metabolism",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd69" },
+    "__v": { "$numberInt": "0" }
+  }
+]

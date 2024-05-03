@@ -1,0 +1,32 @@
+[
+  {
+    "_id": { "$oid": "6634a3623999db00e7c339bb" },
+    "name": "Geography",
+    "description": "Study of Earth's landscapes, environments, and the relationships between people and their environments."
+  },
+  {
+    "_id": { "$oid": "6634a3623999db00e7c339bc" },
+    "name": "History",
+    "description": "Study of past events, particularly in human affairs."
+  },
+  {
+    "_id": { "$oid": "6634a3623999db00e7c339bd" },
+    "name": "Sports",
+    "description": "Cover sports and athletic activities."
+  },
+  {
+    "_id": { "$oid": "6634a3623999db00e7c339be" },
+    "name": "Music",
+    "description": "Exploration of musical genres, compositions, and cultural influences."
+  },
+  {
+    "_id": { "$oid": "6634a3623999db00e7c339c0" },
+    "name": "Computer Science",
+    "description": "Study of computation, algorithms, programming languages, and the design of computer systems."
+  },
+  {
+    "_id": { "$oid": "6634a3623999db00e7c339c1" },
+    "name": "Science",
+    "description": "Exploration of the natural world through observation and experimentation."
+  }
+]

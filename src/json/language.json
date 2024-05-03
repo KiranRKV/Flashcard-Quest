@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What is the term for a word that has the opposite meaning of another word?",
+    "answer": "Antonym",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What do we call a word that is spelled the same but has different meanings and pronunciations?",
+    "answer": "Homograph",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term refers to a word formed by combining parts of other words?",
+    "answer": "Compound word",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the name for words that sound like the noise they describe, such as 'buzz' or 'hiss'?",
+    "answer": "Onomatopoeia",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What term describes words that are similar in meaning?",
+    "answer": "Synonym",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd4f" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "In French, what is the term for the verb form that expresses a completed action?",
+    "answer": "Passé composé",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd50" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What do we call the accent mark used in French to indicate a rising tone?",
+    "answer": "Accent aigu",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd50" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "In French grammar, what is the term for the conjunction 'and'?",
+    "answer": "Et",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd50" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the French term for the part of speech that modifies a noun?",
+    "answer": "Adjectif",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd50" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the name for the tense used in French to express actions that will happen in the future?",
+    "answer": "Futur simple",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd50" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "How would you say 'hello' in Spanish?",
+    "answer": "Hola",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd51" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the Spanish word for 'goodbye'?",
+    "answer": "Adiós",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd51" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "How would you ask someone 'How are you?' in Spanish?",
+    "answer": "¿Cómo estás?",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd51" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the Spanish word for 'thank you'?",
+    "answer": "Gracias",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd51" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "How would you say 'I love you' in Spanish?",
+    "answer": "Te amo",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd51" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "How is the letter 'ü' pronounced in German?",
+    "answer": "It is pronounced like the 'u' in 'rue'",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd52" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the correct pronunciation of the letter 'ä' in German?",
+    "answer": "It is pronounced like the 'a' in 'cat'",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd52" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "How do you pronounce the letter 'ö' in German?",
+    "answer": "It is pronounced like the 'i' in 'bird'",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd52" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "What is the correct pronunciation of the letter 'ß' in German?",
+    "answer": "It is pronounced like the 's' in 'miss'",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd52" },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "question": "How is the letter 'ch' pronounced in German?",
+    "answer": "It is pronounced like the 'ch' in 'loch'",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "subcategory": { "$oid": "6632205ff9c6588c4fbebd52" },
+    "__v": { "$numberInt": "0" }
+  }
+]

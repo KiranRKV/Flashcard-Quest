@@ -1,0 +1,344 @@
+[
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd3d" },
+    "name": "Programming Basics",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Introduce fundamental programming concepts and algorithms."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd3e" },
+    "name": "Data Structures",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Cover essential data structures like arrays, linked lists, trees, and graphs."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd3f" },
+    "name": "Algorithms",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Explore algorithms for problem-solving and optimization."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd40" },
+    "name": "Web Development",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Focus on building web applications using frontend and backend technologies."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd41" },
+    "name": "Database Management",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Study database systems and SQL/NoSQL databases."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd77" },
+    "name": "Object-Oriented Programming",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Learn about the principles of object-oriented programming (OOP) and its implementation in various languages."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd78" },
+    "name": "Software Engineering",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Study software development methodologies, design patterns, and best practices."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd79" },
+    "name": "Operating Systems",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Explore the principles, components, and functions of operating systems."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd7a" },
+    "name": "Computer Networks",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Study the architecture, protocols, and technologies used in computer networks."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd7b" },
+    "name": "Cybersecurity",
+    "category": { "$oid": "6619a449e77c7a8772fe74dd" },
+    "description": "Focus on protecting computer systems, networks, and data from cyber threats and attacks."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd42" },
+    "name": "Physical Geography",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "description": "Study Earth's natural features and processes, including landforms, climates, and ecosystems."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd43" },
+    "name": "Human Geography",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "description": "Examine human activities and their impact on the environment, including population, culture, and urbanization."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd44" },
+    "name": "Cultural Geography",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "description": "Explore the cultural aspects of geography, including language, religion, and customs."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd45" },
+    "name": "Geographic Information Systems (GIS)",
+    "category": { "$oid": "6619a4c8e77c7a8772fe74e3" },
+    "description": "Learn about GIS technology for mapping, analyzing, and visualizing geographic data."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd46" },
+    "name": "Ancient History",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "description": "Study the history of ancient civilizations, including Mesopotamia, Egypt, Greece, and Rome."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd47" },
+    "name": "Medieval History",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "description": "Explore the Middle Ages, including feudalism, knights, and the Renaissance."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd48" },
+    "name": "Modern History",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "description": "Examine major events and developments from the early modern period to the present day."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd49" },
+    "name": "Military History",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "description": "Study the history of warfare, military strategy, and conflicts throughout history."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd4a" },
+    "name": "Olympic Sports",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "description": "Cover sports featured in the Olympic Games, including athletics, swimming, and gymnastics."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd4b" },
+    "name": "Team Sports",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "description": "Focus on team-based sports such as soccer, basketball, and volleyball."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd4c" },
+    "name": "Individual Sports",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "description": "Cover individual sports like swimming, track and field, and tennis."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd4d" },
+    "name": "Extreme Sports",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "description": "Explore extreme sports such as skydiving, bungee jumping, and snowboarding."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd4e" },
+    "name": "Winter Sports",
+    "category": { "$oid": "6619a3f9e77c7a8772fe74da" },
+    "description": "Cover sports played in winter, including skiing, snowboarding, and ice hockey."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd4f" },
+    "name": "English Vocabulary",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "description": "Focus on building vocabulary and language proficiency in English."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd50" },
+    "name": "French Grammar",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "description": "Study grammar rules and structures in the French language."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd51" },
+    "name": "Spanish Conversation",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "description": "Practice conversational skills and vocabulary in Spanish."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd52" },
+    "name": "German Pronunciation",
+    "category": { "$oid": "6619a3b0e77c7a8772fe74d9" },
+    "description": "Improve pronunciation and speaking skills in the German language."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd59" },
+    "name": "European History",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "description": "Examine major events and developments in European history, including wars, revolutions, and cultural movements."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd5a" },
+    "name": "American History",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "description": "Explore the history of the United States, including colonialism, independence, and modern democracy."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd5b" },
+    "name": "Asian History",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "description": "Study the history of Asia, including ancient civilizations, empires, and modern developments."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd5c" },
+    "name": "African History",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "description": "Examine the history of Africa, including ancient kingdoms, colonialism, and independence movements."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd5d" },
+    "name": "Latin American History",
+    "category": { "$oid": "6619a41ce77c7a8772fe74db" },
+    "description": "Explore the history of Latin America, including pre-Columbian civilizations, colonization, and contemporary issues."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd5e" },
+    "name": "Music Theory",
+    "category": { "$oid": "6619a432e77c7a8772fe74dc" },
+    "description": "Study musical notation, harmony, and composition."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd5f" },
+    "name": "Instrumental Techniques",
+    "category": { "$oid": "6619a432e77c7a8772fe74dc" },
+    "description": "Focus on playing techniques and performance skills for various musical instruments."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd60" },
+    "name": "Music History",
+    "category": { "$oid": "6619a432e77c7a8772fe74dc" },
+    "description": "Explore the historical development of music, including composers, styles, and movements."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd61" },
+    "name": "Music Production",
+    "category": { "$oid": "6619a432e77c7a8772fe74dc" },
+    "description": "Learn about recording, mixing, and mastering music."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd62" },
+    "name": "Art History",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "description": "Study the history of art, including major artists, movements, and styles."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd63" },
+    "name": "Drawing Techniques",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "description": "Learn drawing skills and techniques, including perspective, shading, and composition."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd64" },
+    "name": "Painting Styles",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "description": "Explore different painting styles and techniques, including oil, acrylic, and watercolor."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd65" },
+    "name": "Sculpture",
+    "category": { "$oid": "6619a45fe77c7a8772fe74de" },
+    "description": "Study sculpting techniques and materials, including clay, stone, and metal."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd66" },
+    "name": "Anatomy",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "description": "Study the structure and function of the human body."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd67" },
+    "name": "Physiology",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "description": "Examine the functions and processes of living organisms."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd68" },
+    "name": "Medical Terminology",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "description": "Learn the language of medicine, including medical prefixes, suffixes, and root words."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd69" },
+    "name": "Pharmacology",
+    "category": { "$oid": "6619a476e77c7a8772fe74df" },
+    "description": "Study the effects and uses of drugs and medications."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd6a" },
+    "name": "Microeconomics",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "description": "Explore economic principles and decision-making at the individual or firm level."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd6b" },
+    "name": "Macroeconomics",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "description": "Study economic aggregates and phenomena at the national or global level."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd6c" },
+    "name": "International Economics",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "description": "Examine economic interactions between countries, including trade, finance, and development."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd6d" },
+    "name": "Development Economics",
+    "category": { "$oid": "6619a48de77c7a8772fe74e0" },
+    "description": "Study economic issues related to growth, poverty, and inequality."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd6e" },
+    "name": "Environmental Policy",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "description": "Examine policies and strategies for environmental protection and sustainability."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd6f" },
+    "name": "Ecology",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "description": "Study the interactions between organisms and their environment."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd70" },
+    "name": "Conservation Biology",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "description": "Focus on preserving biodiversity and protecting natural habitats."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd71" },
+    "name": "Renewable Energy",
+    "category": { "$oid": "6619a4a3e77c7a8772fe74e1" },
+    "description": "Explore sustainable energy sources and technologies."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd72" },
+    "name": "Social Psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "description": "Study how social interactions and group dynamics influence behavior and attitudes."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd73" },
+    "name": "Cognitive Psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "description": "Explore mental processes such as perception, memory, and reasoning."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd74" },
+    "name": "Developmental Psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "description": "Examine human development across the lifespan, from infancy to old age."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd75" },
+    "name": "Abnormal Psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "description": "Study psychological disorders and their causes, symptoms, and treatments."
+  },
+  {
+    "_id": { "$oid": "6632205ff9c6588c4fbebd76" },
+    "name": "Industrial-Organizational Psychology",
+    "category": { "$oid": "6619a4bbe77c7a8772fe74e2" },
+    "description": "Focus on applying psychological principles to the workplace, including employee behavior and organizational development."
+  }
+]
